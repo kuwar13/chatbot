@@ -1,9 +1,7 @@
-import { Box, useMediaQuery, useTheme } from "@mui/material";
-import React from "react";
+import { Box  } from "@mui/material";
 import TypingAnim from "../components/typer/TypingAnimation";
 
 const Home = () => {
-  const theme = useTheme();
   return (
     <Box width={"100%"} height={"100%"}>
       <Box
