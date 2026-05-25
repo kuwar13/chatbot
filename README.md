@@ -212,19 +212,6 @@ DELETE /api/v1/chat/delete
 
 ---
 
-# Future Improvements
-
-- Streaming Responses
-- Markdown Rendering
-- Multiple Chat Sessions
-- Conversation Titles
-- Rate Limiting
-- Docker Deployment
-- Redis Caching
-- Voice Chat Support
-
----
-
 # Author
 
 ## Kuwarpreet Singh
