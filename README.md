@@ -191,32 +191,11 @@ npm run build
 
 ---
 
-# API Endpoints
-
-## Auth Routes
-
-```http
-POST /api/v1/user/signup
-POST /api/v1/user/login
-GET  /api/v1/user/auth-status
-GET  /api/v1/user/logout
-```
-
-## Chat Routes
-
-```http
-POST   /api/v1/chat/new
-GET    /api/v1/chat/all-chats
-DELETE /api/v1/chat/delete
-```
-
----
-
 # Author
 
 ## Kuwarpreet Singh
 
 - GitHub: https://github.com/kuwar13
-- LinkedIn: https://www.linkedin.com/in/kuwarpreetsingh/
+- LinkedIn: https://www.linkedin.com/in/kuwarpreet-singh-247827220
 
 ---
